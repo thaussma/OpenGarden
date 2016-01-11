@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map Open Garden
+#######################################
+
+#######################################
+# Datatypes (KEYWORD3)
+#######################################
+
+OpenGarden	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initSensors	KEYWORD2
+sensorPowerON	KEYWORD2
+sensorPowerOFF	KEYWORD2
+initRF	KEYWORD2
+receiveFromNode	KEYWORD2
+getNodeData	KEYWORD2
+printNode	KEYWORD2
+debugRF	KEYWORD2
+initRTC	KEYWORD2
+setTime	KEYWORD2
+getTime	KEYWORD2
+printTime	KEYWORD2
+initIrrigation	KEYWORD2
+irrigationON	KEYWORD2
+irrigationOFF	KEYWORD2
+sendPowerStrip	KEYWORD2
+readSoilMoisture	KEYWORD2
+readAirTemperature	KEYWORD2
+readAirHumidity	KEYWORD2
+readSoilTemperature	KEYWORD2
+readLuminosity	KEYWORD2
+calibratepH	KEYWORD2
+readpH	KEYWORD2
+pHConversion	KEYWORD2
+calibrateEC	KEYWORD2
+readResistanceEC	KEYWORD2
+ECConversion	KEYWORD2
+
+Payload	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
